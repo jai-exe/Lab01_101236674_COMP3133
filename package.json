@@ -1,0 +1,11 @@
+{
+  "name": "lab01_101236674_comp3133",
+  "version": "1.0.0",
+  "description": "Lab 01 for COMP 3133 Full Stack Course. Winter 2022 semester.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
